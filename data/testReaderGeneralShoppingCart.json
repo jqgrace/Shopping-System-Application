@@ -1,0 +1,14 @@
+{"tea": [
+    {
+        "Region": "China",
+        "Type": "Green Tea",
+        "Year": 1,
+        "Price": 39.99
+    },
+    {
+        "Region": "India",
+        "Type": "Black Tea",
+        "Year": 2,
+        "Price": 53.98
+    }
+]}

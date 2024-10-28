@@ -1,0 +1,38 @@
+{"teaMenu": [
+    {
+        "Region": "China",
+        "Type": "Green Tea",
+        "Year": 1,
+        "Price": 39.99
+    },
+    {
+        "Region": "China",
+        "Type": "Oolong Tea",
+        "Year": 3,
+        "Price": 99.99
+    },
+    {
+        "Region": "India",
+        "Type": "Black Tea",
+        "Year": 2,
+        "Price": 53.98
+    },
+    {
+        "Region": "Japan",
+        "Type": "Matcha",
+        "Year": 1,
+        "Price": 19.99
+    },
+    {
+        "Region": "United Kingdom",
+        "Type": "Early Grey",
+        "Year": 2,
+        "Price": 29.79
+    },
+    {
+        "Region": "Argentina",
+        "Type": "Mate Tea",
+        "Year": 4,
+        "Price": 15.88
+    }
+]}
